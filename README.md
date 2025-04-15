@@ -118,6 +118,4 @@ Special thanks to:
 - **AutoGluon** for simplifying machine learning workflows.
 - Openweathermap APIs for providing comprehensive weather data.
 
-```
-## **Author**
-### **Sandeep Mondkar**
+---
