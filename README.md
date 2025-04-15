@@ -1,6 +1,3 @@
-# Regression-and-Classification-using-AutoGluon
-
-```markdown
 # **Regression and Classification using AutoGluon**
 
 ## **Overview**
@@ -56,8 +53,6 @@ Install the dependencies:
    ```bash
    pip install pandas scikit-learn autogluon
    ```
-
----
 
 ## **How to Use**
 1. **Download CSV Files**:
