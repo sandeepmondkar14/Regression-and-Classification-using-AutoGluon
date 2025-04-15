@@ -119,3 +119,5 @@ Special thanks to:
 - Openweathermap APIs for providing comprehensive weather data.
 
 ```
+## Author
+### Sandeep Mondkar
